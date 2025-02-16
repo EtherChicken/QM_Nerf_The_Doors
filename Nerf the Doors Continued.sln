@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nerf the Doors Continued", "Nerf the Doors Continued\Nerf the Doors Continued.csproj", "{F88F951F-5074-43D9-B4B3-D29EF55CE8EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88F951F-5074-43D9-B4B3-D29EF55CE8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88F951F-5074-43D9-B4B3-D29EF55CE8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88F951F-5074-43D9-B4B3-D29EF55CE8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88F951F-5074-43D9-B4B3-D29EF55CE8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
