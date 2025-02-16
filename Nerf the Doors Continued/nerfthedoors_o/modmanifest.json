@@ -1,7 +1,0 @@
-{
-  "UniqueModName": "edair_mod_door",
-  "Assemblies": [
-    "edair_mod_door.dll"
-  ],
-  "Dependencies": []
-}
